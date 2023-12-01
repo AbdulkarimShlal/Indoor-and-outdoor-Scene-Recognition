@@ -2,10 +2,10 @@
 Computational Intelligence: Theory and Applications, Final Project, Indoor and outdoor Scene Recognition, for group 11
 
 Before downloading code:
-  1.1. Install Python.
-  1.2. Add Python to PATH. ...
-  1.3. Open a new CMD prompt (Windows Key + R, cmd.exe), or in Terminal
-  1.4. Install virtualenv through the command:
+   - 1.1. Install Python.
+  - 1.2. Add Python to PATH. ...
+  -1.3. Open a new CMD prompt (Windows Key + R, cmd.exe), or in Terminal
+  -1.4. Install virtualenv through the command:
   pip install virtualenv
   1.5. Check that virtualenv is installed through the command:
   pip --version
